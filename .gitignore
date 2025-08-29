@@ -1,2 +1,23 @@
 # Ignore environment files
 .env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+llm/Lib/
+llm/Scripts/
+llm/Include/
+llm
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
