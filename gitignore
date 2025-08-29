@@ -1,4 +1,5 @@
 # Ignore virtual environments and Python libraries
+llm
 llm/Lib/
 llm/Scripts/
 llm/Include/
