@@ -5,7 +5,7 @@ llm/Scripts/
 llm/Include/
 *.env
 *.venv
-
+.env/
 # Python cache
 __pycache__/
 *.pyc
